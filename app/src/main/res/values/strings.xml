@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assigment</string>
+    <string name="author_textview">Author Name </string>
+    <string name="date_textview">1 July 2019</string>
+    <string name="title_textview">Title will come here full title</string>
+    <string name="full_description_textview">full description will come here </string>
+    <string name="content_textview">content will come here </string>
+    <string name="link_open_text">For more Info click here</string>
+
+</resources>
